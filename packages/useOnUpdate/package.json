@@ -1,0 +1,13 @@
+{
+  "name": "@jhooks/useOnUpdate",
+  "version": "3.15.0",
+  "description": "useOnUpdate 模拟componentDidUpdate",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "",
+  "license": "ISC",
+  "gitHead": "02034a641ad96fbef6e86f9957a30c9178d0ced2",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@jhooks/useOnLoad",
+  "version": "3.15.0",
+  "description": "比useEffect更早的调用，由绘制之后变为绘制之前，同时返回页面URL参数",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "gitHead": "62957584f3adfacd8327fe3d7a39c3c995e4b2ff"
+}

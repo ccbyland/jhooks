@@ -1,0 +1,13 @@
+{
+  "name": "@jhooks/useCreation",
+  "version": "3.15.0",
+  "description": "是 useMemo 或 useRef 的替代品",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "author": "",
+  "license": "ISC",
+  "gitHead": "62957584f3adfacd8327fe3d7a39c3c995e4b2ff"
+}

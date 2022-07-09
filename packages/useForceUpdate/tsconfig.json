@@ -1,0 +1,11 @@
+{
+    "extends": "../../tsconfig.json",
+    "compileOnSave": true,
+    "compilerOptions": {
+        "outDir": "./dist", // 指定输出路径
+    },
+    "include": [
+        "./index.ts", // 指定入口文件。具体情况具体分析。
+        "../../typings" // 由于改写了include,这里需要把typings手动再加入
+    ]
+}

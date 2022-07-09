@@ -1,0 +1,13 @@
+{
+  "name": "@jhooks/useStateRef",
+  "version": "3.15.0",
+  "description": "在useState的基础上扩展了一个返回值，用于获取state的最新值",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "",
+  "license": "ISC",
+  "gitHead": "02034a641ad96fbef6e86f9957a30c9178d0ced2",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}

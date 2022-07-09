@@ -1,0 +1,17 @@
+{
+  "name": "@jhooks/useIntersectionObserver",
+  "version": "3.15.0",
+  "description": "IntersectionObserver封装",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jhooks/useThrottle": "3.15.0",
+    "@tarojs/taro": "~3.2.12"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "gitHead": "62957584f3adfacd8327fe3d7a39c3c995e4b2ff"
+}

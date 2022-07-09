@@ -1,0 +1,36 @@
+{
+  "name": "@jhooks/hooks",
+  "version": "3.18.0",
+  "description": "根hooks",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jhooks/useAsyncEffect": "3.15.0",
+    "@jhooks/useCreation": "3.15.0",
+    "@jhooks/useDebounce": "3.15.0",
+    "@jhooks/useEventCb": "3.18.0",
+    "@jhooks/useForceUpdate": "3.15.0",
+    "@jhooks/useIntersectionObserver": "3.15.0",
+    "@jhooks/useInterval": "3.15.0",
+    "@jhooks/useLatest": "3.15.0",
+    "@jhooks/useLockFn": "3.15.0",
+    "@jhooks/useMap": "3.15.0",
+    "@jhooks/useMemoizedFn": "3.15.0",
+    "@jhooks/useOnLoad": "3.15.0",
+    "@jhooks/useOnUpdate": "3.15.0",
+    "@jhooks/useRefProps": "3.15.0",
+    "@jhooks/useSet": "3.15.0",
+    "@jhooks/useSetState": "3.15.0",
+    "@jhooks/useStateRef": "3.15.0",
+    "@jhooks/useThrottle": "3.15.0",
+    "@jhooks/useTimeout": "3.15.0",
+    "@jhooks/useUnmount": "3.15.0",
+    "@jhooks/useWait": "3.15.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "gitHead": "62957584f3adfacd8327fe3d7a39c3c995e4b2ff"
+}

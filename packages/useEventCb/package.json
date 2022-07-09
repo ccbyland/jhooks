@@ -1,0 +1,13 @@
+{
+  "name": "@jhooks/useEventCb",
+  "version": "3.18.0",
+  "description": "给子组件传递固定的callback，防止子组件跟随父组件重复渲染",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "gitHead": "62957584f3adfacd8327fe3d7a39c3c995e4b2ff"
+}

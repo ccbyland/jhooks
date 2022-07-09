@@ -1,0 +1,15 @@
+# http://editorconfig.org
+
+root = true
+
+[*]
+charset = utf-8
+# 缩进风格为空格
+indent_style = space
+# 缩进大小为 4
+indent_size = 4
+# 表示以Unix风格的换行符结尾
+end_of_line = lf
+insert_final_newline = true
+# 设置为 true 表示会除去换行行首的任意空白字符
+trim_trailing_whitespace = true

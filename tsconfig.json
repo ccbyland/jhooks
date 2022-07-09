@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "moduleResolution": "node",
+        "outDir": "./dist",
+        "jsx": "react",
+        "allowJs": true,
+        "esModuleInterop": true,
+        "downlevelIteration": true,
+        "sourceMap": true,
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["src/*"]
+        },
+        "allowSyntheticDefaultImports": true,
+        "skipLibCheck": true,
+        "declaration": true,
+        "strictNullChecks": true
+    },
+    "include": ["**/*.ts"],
+    "exclude": ["node_modules", "**/__tests__", "dist"]
+}
